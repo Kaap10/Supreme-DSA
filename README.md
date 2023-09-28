@@ -1,29 +1,9 @@
-![CONSOLEBUSTERS](https://res.cloudinary.com/dkbtmzdtt/image/upload/v1694111744/MYYYYYY/DES_eugygl.png)
 
-# Download Epic Notes
 
-[📩Download Awesome Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
 
-### COURSE MENTORS LOVE BABBAR AND LAKSHAY KUMAR BHAIYA
-
-This course belongs to [The code help](https://www.thecodehelp.in) and follows both our favorite mentors [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
-
-### PDF NOTES AND CPP PROGRAMS
-
-In this repository, you will get each and every class's notes in the form of a PDF and program with an explanation. Also, get the notes on the discord channel [Console Buster](https://discord.gg/naQUPVWvSs) as well as subscribe to the youtube channel [Console Buster](https://www.youtube.com/@ConsoleBusters) to watch our doubts and much more.
-
-<!-- | Status        | Color |
-| ------------- | ----- |
-| Pending       | 🟡    |
-| Progress      | 🔵    |
-| Done          | 🟢    |
-| Not available | 🔴    | -->
+[DSA Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
 
 ## COURSE STRUCTURE
-
-<!-- | NO. | DATE         | CLASS TOPIC           | CLASS NOTES | HW NOTES | QUIZES | DEBUG EXCERCISES |
-| :-- | :----------- | :-------------------- | :---------- | :------- | :----- | :--------------- |
-| 1 | `21-08-2023` | **Orientation Class** | 🔴          | 🔴       | 🔴     | 🔴               | -->
 
 <details>
   <summary>WEEK 01 TOPIC: Introduction to programming</summary>
