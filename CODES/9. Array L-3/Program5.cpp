@@ -1,4 +1,4 @@
-//Program 05: Sum of principal diagonal elements of a matrix
+    //Program 05: Sum of principal diagonal elements of a matrix
 #include<iostream>
 #include<limits.h>
 using namespace std;

@@ -125,3 +125,123 @@ using namespace std;
 // }
 
 // [ PRINT ROW WISE & COL WISE SUM in Array]
+// [SUM OF DIAGNOLS in Array]
+
+// void printElementary(int arr[][3], int row, int col) {
+//     int sum=0;
+//     for (int i=0; i<row; i++) {
+//         for (int j=0; j<col ; j<col) {
+//             if (i==j) {
+//                 sum+=arr[i][j];
+//             }
+//         }
+//     }
+//     cout<< sum<<endl;
+// }
+
+// void printSecondary(int arr[][3], int row, int col) {
+//     int sum=0;
+//     for (int i=0; i<row; i++) {
+//         for (int j=0; j<col; j++) {
+//             if (i+j==(col-1)) {
+//                 sum+=arr[i][j];
+//             }
+//         }
+//     }
+//     cout << sum<< endl;
+// }
+
+// int main() {
+//     int arr[3][3] = {{1,2,3},{4,5,6},{7,8,9}};
+//     int  row =3;
+//     int col =3;
+
+//     cout<<"Print principal diagonal element sum: "<<endl;
+//     printElementary(arr,row,col);
+
+//     cout<<"Print Secondary diagonal element sum: "<<endl;
+//     printSecondary(arr,row,col);
+
+//     return 0;
+// }
+
+// [ TRANSPOSE OF MATRIX]
+// void printTranspose (int arr[][3], int row, int col) {
+//     for (int i=0; i<row; i++) {
+//         for (int j=0; j<col; j++) {
+//             swap(arr[i][j],arr[j][i]);
+//         }
+//     }
+// }
+
+// void printArray (int arr[][3], int row, int col) {
+//     for (int i=0; i<row; i++) {
+//         for (int j=0; j<col; j++) {
+//             cout << arr[i][j]<<" ";
+//         }
+//         cout <<endl;
+//     }
+    
+// }
+
+
+// int main () {
+//     int arr[3][3]={{1,2,3}, {4,5,6}, {7,8,9}};
+//     int row=3;
+//     int col=3;
+
+//     cout << "transpose of matrix: "<<endl;
+//     printTranspose(arr,row,col);
+//     printArray(arr,row,col);
+
+//     return 0;
+// }
+
+// [PRINT COLUMN WISE SUM]
+// void printColumnWise (int arr[][3], int row, int col) {
+//     for (int i=0; i<col;i++) {
+//         int sum=0;
+//         for (int j=0; j<row; j++) {
+//             sum+=arr[j][i];
+//         }
+//         cout << sum <<endl;
+//     }
+// }
+
+
+
+
+// int main() {
+//     int arr[3][3] = {{1,2,3},{4,5,6},{7,8,9}};
+//     int row=3;
+//     int col=3;
+
+//     cout<< "Printing column wise:"<<endl;
+//     printColumnWise(arr,row,col);
+
+//     return 0;
+// }
+
+//[ sum of SECODARY DIAGNOL ELEMENT]
+// void printSecondary(int arr[][3], int row, int col){
+//     int sum=0;
+//     for (int i=0; i<row; i++) {
+//         for ( int j=0; j<col; j++) {
+//             if (i+j==(col-1)) {
+//                 sum+=arr[i][j];
+//             }
+//         }
+//     }
+//     cout << sum << endl;
+// }
+// int main() {
+//     int arr[3][3] = {{1,2,3},{4,5,6},{7,8,9}};
+//     int row=3;
+//     int col=3;
+
+//     cout << "Printing secondary element: "<<endl;
+//     printSecondary(arr,row,col);
+
+//     return 0;
+// }
+
