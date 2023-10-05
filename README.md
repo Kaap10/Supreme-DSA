@@ -5,6 +5,23 @@
 
 ## COURSE STRUCTURE
 
+<<<<<<< HEAD
+=======
+<details>
+  <summary>WEEKLY DOUBTS CLASSES</summary>
+
+```bash
+
+✅WEEK 06
+	DOUBT 01: Lower and upper bound for sorted array
+	DOUBT 02: Remove All Occurrences of a Substring (Leetcode-1910)
+	DOUBT 03: Majority Element (Leetcode-169)
+
+```
+
+</details>
+
+>>>>>>> 30980a4de4bd601662460c2515729241dc60e1d5
 <details>
   <summary>WEEK 01 TOPIC: Introduction to programming</summary>
 
@@ -472,6 +489,37 @@ CLASS HOMEWORK: 16
 	16. Implement std::string::erase()
 	17. Minimum Time Difference (Leetcode-539)
 	18. Number of Laser Beams in a Bank (Leetcode-2125)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 06 TOPIC: Basic Maths & Pointers - Level 1</summary>
+
+```bash
+
+CLASS NOTES: 17
+	1. What is pointer
+	2. Address operator
+    	3. Creation of pointers
+	4. Access pointer and dereference operator
+	5. Declaration of pointer (5 Practice Questions)
+	6. Pointer with array (4 Practice Questions)
+	7. Char array and pointer (4 Practice Questions)
+
+
+CLASS HOMEWORK: 16
+	1. Why pointer size was coming 8 while printing
+	2. why we can not do [arr = arr + 1;] in C++
+	3. Wild pointer in C++
+	4. Void pointer in C++
+	5. Dangling pointer in C++
+	6. Pointers imporatant doubt
+
+BASIC MATHEMATICS FOR DSA
+	1. Basic mathematics for DSA
+	2. Optimising Sieve and Segmented Sieve
 
 ```
 
