@@ -19,7 +19,7 @@ bool binarySearch(vector<int> arr,int target){
         // Rule 01: When target found the return true
         if(arr[mid]==target){
             ans = true;
-            return ans;
+            return true;
         }
         // Rule 02: When target is greater than mid of array value then skip the left part
         else if(arr[mid]<target){
