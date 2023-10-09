@@ -1,7 +1,17 @@
 
 
 
+<<<<<<< HEAD
 [DSA Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
+=======
+### COURSE MENTORS LOVE BABBAR AND LAKSHAY KUMAR BHAIYA
+
+This course belongs to [The code help](https://www.thecodehelp.in) and follows both our favorite mentors [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/) & [Lakshay Kumar](https://www.linkedin.com/in/lakshayk12/).
+
+### PDF NOTES AND CPP PROGRAMS
+
+In this repository, you will get each and every class's notes in the form of a PDF and program with an explanation. Also, get the notes on the discord channel [Console Buster](https://discord.gg/naQUPVWvSs) as well as subscribe to the youtube channel [Console Buster](https://www.youtube.com/@ConsoleBusters) to watch our doubts and much more.
+>>>>>>> baeb0423fd74cb763d378fa4362585874ea393cb
 
 ## COURSE STRUCTURE
 
@@ -519,22 +529,38 @@ CLASS HOMEWORK: 17
 
 BASIC MATHEMATICS FOR DSA
 	PROGRAM 01: Count primes (Leetcode-204)
-	APPROACH 01: Naive
-	APPROACH 02: SQRT
-	APPROACH 03: Sieve of Eratoshenes
-	APPROACH 04: Segmented sieve
+		APPROACH 01: Naive
+		APPROACH 02: SQRT
+		APPROACH 03: Sieve of Eratosthenes
+		APPROACH 04: Segmented sieve
 	PROGRAM 02: Find GCD/HCF using Euclids Algorithm (GFG)
 	PROGRAM 03: Find LCM (GFG)
 	CONCEPT 01: Modulo Arithmetic
 	PROGRAM 04: Fast exponentiation (GFG)
-	APPROACH 01: Naive solution
-	APPROACH 02: Better solution
+		APPROACH 01: Naive solution
+		APPROACH 02: Better solution
 	PROGRAM 05: Modular Exponentiation for large numbers (GFG)
-	6. Optimising Sieve and Segmented Sieve
+	PROGRAM 06: Optimising Sieve of Eratosthenes
+	PROGRAM 07: Segmented Sieve (GFG)
+	PROGRAM 08: HW🔗Product of primes (GFG)
 
 ```
 
 </details>
+<details>
+  <summary>WEEK 06 TOPIC: Basic Maths & Pointers - Level 2</summary>
 
-<!-- Step 01: Assume that all number are prime
-Step 02: Find prime number and remove the multiple of prime number until N-1 size -->
+```bash
+
+CLASS NOTES: 18
+	1. Array of pointer
+	2. Pointer to an array
+    	3. Pointer with functions
+	4. Pointer to pointer (3 Practice Questions)
+	5. Pass by value 
+	6. Pass by reference
+	7. MCQs on pointers practice
+
+```
+
+</details>
