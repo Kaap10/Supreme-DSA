@@ -557,10 +557,63 @@ CLASS NOTES: 18
 	2. Pointer to an array
     	3. Pointer with functions
 	4. Pointer to pointer (3 Practice Questions)
-	5. Pass by value 
+	5. Pass by value
 	6. Pass by reference
 	7. MCQs on pointers practice
 
+```
+
+</details>
+
+<details>
+  <summary>WEEK 07 TOPIC: Recursion - Level 1</summary>
+
+```bash
+
+CLASS NOTES: 19
+	1. Bookish definition of recursion
+	2. Love Bhaiyas definition of recursion
+    	3. Recursion mandatory terms
+	4. Factorial of n number
+	5. How recursion work and function call stack
+	6. Why base case important (Due to Stack Overflow)
+	7. Reverse counting from n to 1
+	8. Tail and head recursion
+	9. Pow(2,N)
+	10. Recursive tree
+	11. Fibonacci series
+	12. Return sum from n to 1
+
+CLASS HOMEWORK: 19
+	1. Time and space complexity of recursion
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 07 TOPIC: Recursion - Level 2</summary>
+
+```bash
+
+CLASS NOTES: 20
+	1. Climbing stairs (Leetcode-70)
+	2. Print array
+	3. Search in array
+	4. Minimum in array
+	5. Arrays even elements stored in vector
+	6. Double each element
+	7. Find in Array
+	8. Print index of all occurrence of target
+	9. Return vector with all occurrences of target
+	10. Print the digits of the number
+
+CLASS HOMEWORK: 20
+	1. Print the Fibonacci series using an iterative method
+	2. Maximum in an array
+	3. Print number of digits
+	4. Find target in string and print it's target indices
+	
 ```
 
 </details>
