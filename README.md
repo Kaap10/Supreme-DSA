@@ -486,8 +486,8 @@ CLASS HOMEWORK: 16
 	3. Longest Common Prefix (Leetcode-14)
 	4. Reverse Vowels of a String (Leetcode-345)
 	5. Isomorphic Strings (Leetcode-205)
-	6. Reorganise String
-	7. Group Anagrams
+	6. Group Anagrams (Leetcode-49)
+	7. Reorganise String
 	8. Longest Palindromic Substring
 	9. Find the Index of the First Occurrence in a String
 	10. String to Integer (atoi)
@@ -613,7 +613,7 @@ CLASS HOMEWORK: 20
 	2. Maximum in an array
 	3. Print number of digits
 	4. Find target in string and print it's target indices
-	
+
 ```
 
 </details>
@@ -628,10 +628,10 @@ CLASS NOTES: 21
 	2. Binary search recursive solution
 	3. Pattern 01: Include and exclude pattern
 		✅Problem: Subsequence of string
-	4. Pattern 02: Exploring all possible ways pattern 
-		✅Problem: Maximize the cost segment (GFG) 
-	5. Coin change (Leetcode-322) 
-	6. House Robber (Leetcode-198) 
+	4. Pattern 02: Exploring all possible ways pattern
+		✅Problem: Maximize the cost segment (GFG)
+	5. Coin change (Leetcode-322)
+	6. House Robber (Leetcode-198)
 
 CLASS HOMEWORK: 21
 	1. Last occurrence of a char
@@ -647,7 +647,96 @@ CLASS HOMEWORK: 21
 	11. Perfect Square
 	12. Minimum Cost for Tickets
 	13. Number of Dice Roll with Target Sum
-	
+
 ```
 
+</details>
+
+<details>
+  <summary>WEEK 08 TOPIC: Backtracking & Divide and conquer - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 22
+	1. Divide and conquer algorithm
+	2. Merge sort
+	3. Merge two sorted array
+	4. Stack and heap memory
+	5. Time complexity of merge sort
+	6. Quick sort algorithm
+
+CLASS HOMEWORK: 22
+	1. Space complexity of merge sort
+	2. Inversion count in Array using Merge Sort
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 08 TOPIC: Backtracking & Divide and conquer - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 23
+	1. What is backtracking?
+	2. Permutation of string
+	3. Rat in a maze
+
+CLASS HOMEWORK: 23
+	1. Count inversion
+	2. In-place merge sort
+	3. Maximum Subarray
+	4. Combination sum problem
+	5. Combination sum problem - II
+	6. Permutation - II
+	7. Beautiful Arrangement
+	8. Distribute Repeating Integers
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 08 TOPIC: Recursion marathon - Extra class</summary>
+
+```bash
+
+CLASS NOTES: 24
+	1. Maximum sum of nod - adjacent element - House Robber (Leetcode-198)
+	2. House Robber II (Leetcode-213)
+	3. Count Derangements (GFG)
+	4. Painting Fence Algorithm (GFG)
+	5. Edit distance (Leetcode-72)
+	6. Maximal Square (Leetcode-221)
+
+CLASS HOMEWORK: 24
+	1. 0/1 Knapsack Problem (GFG)
+	2. Minimum Score Triangulation of Polygon (Leetcode-1039)
+	3. Number of Dice Rolls With Target Sum (Leetcode-1155)
+
+```
+</details>
+
+<details>
+  <summary>WEEK 09 TOPIC: Object Oriented Programming - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 25
+	1. Local and global variable
+	2. Memory layout of a program
+	3. Functional programming
+	4. Object oriented programming
+	5. Class
+	6. Object
+	7. Access modifiers
+	8. Constructor
+	9. Polymorphism
+	10. This pointer
+	11. Stack and Heap memory allocation 
+	(Static and Dynamic Allocation of memory)
+	12. Padding concept
+
+```
 </details>
