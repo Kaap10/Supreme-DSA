@@ -716,6 +716,7 @@ CLASS HOMEWORK: 24
 	3. Number of Dice Rolls With Target Sum (Leetcode-1155)
 
 ```
+
 </details>
 
 <details>
@@ -734,9 +735,75 @@ CLASS NOTES: 25
 	8. Constructor
 	9. Polymorphism
 	10. This pointer
-	11. Stack and Heap memory allocation 
+	11. Stack and Heap memory allocation
 	(Static and Dynamic Allocation of memory)
 	12. Padding concept
 
+CLASS HOMEWORK: 25
+	1. Const keyword
+	2. Default argument
+	3. Initialization list
+	4. MACROS
+	5. Static keyword in class
+		- How does class work
+		- Static data members
+		- Static member function
+
 ```
+
+</details>
+
+<details>
+  <summary>WEEK 09 TOPIC: Object Oriented Programming - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 26
+	1. Copy constructor
+	2. Life cycle of an object
+	3. Destructor
+	4. Getter and setter method
+	5. Abstraction (One Pillar of OOPS)
+	5.1. Encapsulation
+	5.1.1 Perfect encapsulation
+	5.2 Inheritance
+	5.2.1 Mode of inheritance table
+	5.2.2 Type of inheritance
+	5.2.2.1 Single inheritance
+	5.2.2.2 Multilevel inheritance
+	5.2.2.3 Hierarchical inheritance
+	5.2.2.4 Multiple inheritance
+	5.2.2.5 Diamond Problem (Hybrid inheritance)
+	5.2.2.5.1 Sol 01: Scope resolution
+	5.2.2.5.2 Sol 02: Using virtual
+	5.3 Polymorphism
+	5.3.1 Static/compile time polymorphism
+	5.3.1.1 Function overloading
+	5.3.1.2 Constructor overloading
+	5.3.1.3 Operator overloading
+	5.3.1 Run time polymorphism
+
+CLASS HOMEWORK: 26
+	1. Shallow vs deep copy
+	2. Can constructor be made private
+	3. Friend keyword in C++
+```
+
+</details>
+
+<details>
+  <summary>WEEK 09 TOPIC: Object Oriented Programming - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 27
+	1. Run time polymorphism
+
+CLASS HOMEWORK: 27
+	1. Virtual CTOR vs virtual DTOR
+	2. Abstraction in C++
+	3. Inline function
+
+```
+
 </details>
