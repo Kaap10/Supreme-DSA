@@ -807,3 +807,112 @@ CLASS HOMEWORK: 27
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 10 TOPIC: Linked List - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 28
+	1. What is a node?
+	2. What is a linked list?
+	3. Why use of linked list?
+	4. Types of linked list
+	5. Create a linked list and a node
+	6. Print linked list
+	7. Print the length of the linked list "Number of nodes"
+	8. Insertion operations of SLL
+		- Print linked list
+		- Find length of linked list
+		- Insert node at the head
+		- Insert node at the tail
+		- Insert at any position
+	9. Create a tail
+
+CLASS HOMEWORK: 28
+	1. Insert at any position with the help of only one pointer "PREVIOUS"
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 10 TOPIC: Linked List - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 29
+	1. Deletion operations of SLL
+		- Delete a node from the head
+		- Delete a node from the tail
+		- Delete a node from any position
+	2. Double linked list
+		- Print linked list
+		- Find length of linked list
+		- Insert node at the head
+		- Insert node at the tail
+		- Insert at any position
+	3. Deletion operations of DLL
+		- Delete a node from the head
+		- Delete a node from the tail
+		- Delete a node from any position
+
+CLASS HOMEWORK: 29
+	1. Circular linked list
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 10 TOPIC: Linked List - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 30
+	1. Reverse Linked List (Leetcode-206)
+		- Approach 1: Iterative approach
+		- Approach 2: Recursive approach
+	2. Middle of the Linked List (Leetcode-876)
+		- Approach 1: getLength and getMid
+		- Approach 2: Slow and fast pointer "Hare & Tortoise" algorithm
+		- Reasoning : Why this algorithm work
+	3. Palindrome Linked List (Leetcode-234)
+		- Approach 1: Optimal
+		- Approach 2: Brute force
+	4. Linked List Cycle (Leetcode-141)
+		- Approach 1: Using STL map
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 10 TOPIC: Linked List - Class 04</summary>
+
+```bash
+
+CLASS NOTES: 31
+	1. Linked List Cycle (Leetcode-141) 
+		- Approach 1: Fast and slow algorithm
+		- Reasoning : Why this algorithm work
+	2. Starting point of loop (Leetcode-142)
+		- Approach 1: Fast and slow algorithm
+		- Reasoning : Why this algorithm work
+	3. Remove loop (GFG)
+		- Approach 1: Fast and slow algorithm
+	4. Add 1 to a linked list (GFG)
+	5. Reverse Nodes in k-Group (Leetcode-25)
+		- Approach 1: Recursive approach
+	6. Remove Duplicates from Sorted List (Leetcode-83)
+
+CLASS HOMEWORK: 31
+	1. Add two linked list (Leetcode-442)
+	2. Sort 0, 1, 2 in linked list (GFG)
+	3. Sort linked list (Leetcode-148)
+	5. Quick Sort Algorithm is best for array or linked list?
+	7. Merge Sort Algorithm is best for array or linked list?
+
+```
+
+</details>
