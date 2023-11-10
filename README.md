@@ -8,7 +8,6 @@ This course belongs to [The code help](https://www.thecodehelp.in) and follows b
 ### PDF NOTES AND CPP PROGRAMS
 
 In this repository, you will get each and every class's notes in the form of a PDF and program with an explanation. Also, get the notes on the discord channel [Console Buster](https://discord.gg/naQUPVWvSs) as well as subscribe to the youtube channel [Console Buster](https://www.youtube.com/@ConsoleBusters) to watch our doubts and much more.
->>>>>>> baeb0423fd74cb763d378fa4362585874ea393cb
 
 ## COURSE STRUCTURE
 =======
@@ -26,7 +25,6 @@ In this repository, you will get each and every class's notes in the form of a P
 
 </details>
 
->>>>>>> 30980a4de4bd601662460c2515729241dc60e1d5
 <details>
   <summary>WEEK 01 TOPIC: Introduction to programming</summary>
 
