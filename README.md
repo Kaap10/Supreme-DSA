@@ -1,7 +1,4 @@
 
-
-
-<<<<<<< HEAD
 [DSA Notes](https://drive.google.com/drive/folders/1y5ASkbzXW6C5Owx7J_qKjy4QltgBvb4I?usp=drive_link)
 =======
 ### COURSE MENTORS LOVE BABBAR AND LAKSHAY KUMAR BHAIYA
@@ -14,8 +11,6 @@ In this repository, you will get each and every class's notes in the form of a P
 >>>>>>> baeb0423fd74cb763d378fa4362585874ea393cb
 
 ## COURSE STRUCTURE
-
-<<<<<<< HEAD
 =======
 <details>
   <summary>WEEKLY DOUBTS CLASSES</summary>
