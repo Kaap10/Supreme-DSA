@@ -903,10 +903,10 @@ CLASS HOMEWORK: 31
 	1. Merge Two Sorted Lists (Leetcode-21)
 	2. Sort Lists using Merge Sort (Leetcode-148)
 	3. Intersection of Two Linked Lists (Leetcode-160)
-	4. Delete N Nodes after M Nodes
-	5. Print kth Node from the End
-	6. Flatten Linked List
-	7. Copy List with Random Pointer
+	4. Delete N Nodes after M Nodes (GFG)
+	5. Print kth Node from the End (Hackerrank)
+	6. Flatten Linked List (GFG)
+	7. Copy List with Random Pointer (Leetcode-138)
 	8. Rotate List
 	9. Find Minimum and Maximum Number of Nodes Between Critical Points
 	10. Merge Nodes in between Zeros
@@ -958,6 +958,42 @@ CLASS NOTES: 33
 	1. Problem 1: Implementation of Two Stack in an Array
 	2. Problem 2: Valid Parentheses (Leetcode-20)
 	3. Problem 3: Remove Redundant Brackets
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 11 TOPIC: Stack - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 34
+	Problem 1: Implement a minStack (Leetcode-155)
+	Problem 2: Next smaller element
+	Problem 3: Prev smaller element
+	Problem 4: Largest Rectangle Area in Histogram (Leectcode-84)
+
+CLASS HOMEWORK: 34
+	1. Minimum Bracket Reversal
+	2. Remove All Adjacent Duplicates In String
+	3. Celebrity Problem
+	4. Next greater element in Linked List (Leetcode)
+	5. N Stacks in an Array
+	6. Online Stock Span (Leetcode)
+	7. Check If Word Is Valid After Substitutions (Leetcode)
+	8. Decode Strings (Leetcode)
+	9. Car Fleet I (Leetcode)
+	10. Car Fleet - II (Leetcode)
+	11. Simplify Path (Leetcode)
+	12. Max rectangle in Binary Matrix with all 1s
+	13. Daily Temperatures
+	14. Remove K Digits
+	15. Minimum Add To Make Parentheses Valid
+	16. Longest Valid Parentheses
+	17. Asteroid Collision
+	18. Design Browser History
+	19. Final Prices With a Special Discount in a Shop (Leetcode-1475)
 
 ```
 
