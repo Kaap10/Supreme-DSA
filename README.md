@@ -907,7 +907,7 @@ CLASS HOMEWORK: 31
 	5. Print kth Node from the End (Hackerrank)
 	6. Flatten Linked List (GFG)
 	7. Copy List with Random Pointer (Leetcode-138)
-	8. Rotate List
+	8. Rotate List (Leetcode-61)
 	9. Find Minimum and Maximum Number of Nodes Between Critical Points
 	10. Merge Nodes in between Zeros
 	11. Add two linked list (Leetcode-442)
@@ -994,6 +994,36 @@ CLASS HOMEWORK: 34
 	17. Asteroid Collision
 	18. Design Browser History
 	19. Final Prices With a Special Discount in a Shop (Leetcode-1475)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 01</summary>
+
+```bash
+
+CLASS NOTES: 35
+	1. What is Queue and STL Queue
+	2. Queue Implementation using a Dynamic Array
+	3. Circular Queue Implementation
+	4. Circular Doble Ended Queue Implementation
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 02</summary>
+
+```bash
+
+CLASS NOTES: 36
+	1. Reverse a queue
+	2. Reverse 'k' element in a queue ⭐
+	3. Interleave first and second half of a queue
+	4. First negative integer in every window of 'k' ⭐
 
 ```
 
