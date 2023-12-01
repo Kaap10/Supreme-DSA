@@ -908,12 +908,13 @@ CLASS HOMEWORK: 31
 	6. Flatten Linked List (GFG)
 	7. Copy List with Random Pointer (Leetcode-138)
 	8. Rotate List (Leetcode-61)
-	9. Find Minimum and Maximum Number of Nodes Between Critical Points
-	10. Merge Nodes in between Zeros
-	11. Add two linked list (Leetcode-442)
-	12. Sort 0, 1, 2 in linked list (GFG)
-	13. ARTICLE: Quick Sort Algorithm is best for array or linked list?
-	14. ARTICLE: Merge Sort Algorithm is best for array or linked list?
+	9. Odd Even Linked List (Leetcode-328)
+	10. Find Minimum and Maximum Number of Nodes Between Critical Points (Leetcode-2048)
+	11. Merge Nodes in between Zeros (Leetcode-2181)
+	12. Add two linked list (Leetcode-442)
+	13. Sort 0, 1, 2 in linked list (GFG)
+	14. ARTICLE: Quick Sort Algorithm is best for array or linked list?
+	15. ARTICLE: Merge Sort Algorithm is best for array or linked list?
 
 ```
 
@@ -1024,6 +1025,44 @@ CLASS NOTES: 36
 	2. Reverse 'k' element in a queue ⭐
 	3. Interleave first and second half of a queue
 	4. First negative integer in every window of 'k' ⭐
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 37
+	1. First Non Repeating/Unique Character in a String (Leetcode-387)
+	2. Gas Station (Leetcode-134)
+	3. Sliding Window Maximum (Leetcode-239)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 01</summary>
+
+```bash
+CLASS NOTES: 38
+	1. What is a binary tree
+	2. Terms of binary tree
+	3. Implementation of binary tree
+	4. Binary tree travesels
+		I. Pre-order traversal
+		II. In order travesel
+		III. Post order travesel
+	5. Level order traversal in a line
+	6. Level order traversal in level wise
+	7. Height of a binary tree (Leetcode-104)
+	8. Diameter of binary tree (Leetcode-543)
+
+HOMEWORK NOTES: 38
+	1. Generics tree
 
 ```
 
