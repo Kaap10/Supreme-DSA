@@ -1105,3 +1105,52 @@ HOMEWORK NOTES: 39
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 03</summary>
+
+```bash
+CLASS NOTES: 40
+	1. Left view of binary tree
+	2. Right view of binary tree
+	3. Top view of binary tree
+	4. Bottom view of binary tree
+	5. Boundary traversal of binary tree
+
+HOMEWORK NOTES: 40
+	1. FW to find diameter of binary tree
+	2. FW to find height balanced tree
+	3. Check two trees are identical
+	4. Symmetric Tree (Mirror Subtrees)
+	5. Zig-zag traversal
+	6. Transform to sum tree
+	7. Diagonal Traversal
+	8. Vertical Traversal
+	9. K-Sum Paths
+	10. Morris Traversal
+	11. Flatten a binary tree into LinkedList
+	12. Sum of longest bloodline of tree
+	13. Maximum sum of non-adjacent nodes
+	14. Burning Tree
+	15. Find Duplicate Sumtrees
+	16. Left view of binary tree using level order traversal
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 14 TOPIC: Binary Search Tree - Class 01</summary>
+
+```bash
+CLASS NOTES: 41
+	1. What is binary search tree
+	2. Create binary search tree
+	3. Traversals of binary search tree
+	4. Min and Max value in BST
+	5. Target value present or not in BST
+	6. Delete node from BST
+
+```
+
+</details>
