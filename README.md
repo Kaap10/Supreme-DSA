@@ -1169,3 +1169,63 @@ CLASS NOTES: 42
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 14 TOPIC: Binary Search Tree - Class 03</summary>
+
+```bash
+CLASS NOTES: 43
+	1. Convert BST into Sorted Double Linked List (IMP-QUESTION-INTERVIEW)
+	2. Convert Sorted Double Linked List into BST (IMP-QUESTION-INTERVIEW)
+
+HOMEWORK NOTES: 43
+	1. Inorder Successor in BST
+	2. Inorder Predecessor in BST
+	3. Build BST using Preorder Traversal
+	4. Brothers from Different roots
+	5. Convert BST to a Balanced BST
+	6. Find the Median of BST
+	7. Check BST has Dead End
+	8. Count BST Nodes lying in a Range
+	9. Flatten BST to Sorted LL
+	10. Replace elements with the least Greater elements to it Right
+	11. Valid BST from Preorder
+	12. Merge two BSTs
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 01</summary>
+
+```bash
+CLASS NOTES: 44
+	1. What is heap?
+	2. Min and Max heap
+	3. Insertion to heap
+	4. Deletion from heap
+	5. Heapify using recursion
+	6. Convert array to heap
+	7. Heap sort
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 02</summary>
+
+```bash
+CLASS NOTES: 45
+	1. C++ STL Priority Queue "MAX HEAP"
+	2. C++ STL Priority Queue "MIN HEAP"
+	3. Kth Smallest Element in an Array using Max Heap (GFG)
+	4. Kth Largest Element in an Array using Min Heap (GFG)
+	5. Check if a given Complete Binary Tree is a Max Heap or not? (GFG)
+	6. Check Whether a Binary Tree is a Complete Binary Tree or Not? (Leetcode-958)
+	7. Convert Given Combination of CBT and BST into a Valid Max Heap (GFG)
+
+```
+
+</details>
