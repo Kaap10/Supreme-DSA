@@ -1343,3 +1343,15 @@ CLASS NOTES: 51
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 02</summary>
+
+```bash
+CLASS NOTES: 52
+	1. House Robber (Leetcode-198)
+	2. Coin Change (Leetcode-322)
+
+```
+
+</details>
