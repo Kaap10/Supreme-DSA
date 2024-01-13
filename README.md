@@ -1355,3 +1355,15 @@ CLASS NOTES: 52
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 03</summary>
+
+```bash
+CLASS NOTES: 53
+	1. Painting Fence Algorithm (GFG)
+	2. 0/1 Knapsack Problem (GFG)
+
+```
+
+</details>
