@@ -1229,3 +1229,199 @@ CLASS NOTES: 45
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 03</summary>
+
+```bash
+CLASS NOTES: 46
+	1. Merge K Sorted Arrays (GFG)
+	2. Merge K Sorted Linked Lists (Leetcode-23)
+	3. Smallest Range in K Lists (Leetcode-632)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 15 TOPIC: Heap - Class 04</summary>
+
+```bash
+CLASS NOTES: 47
+	1. Remove Stones to Minimize the Total (Leetcode-1962)
+	2. Reorganize String (Leetcode-767)
+	3. Longest Happy String (Leetcode-1405)
+	4. Median in a Stream (CodingNinjas)
+
+HOMEWORK NOTES: 47
+	1. Check If Binary Tree is Heap
+	2. Merge Two Binary Max Heap
+	3. K-Closest points to the origin
+	4. Get Biggest Three Rhombus Sums In A Grid
+	5. Minimum Difference in Sums After Removal of Elements
+	6. Minimum Number of Refueling Stops
+	7. Sliding Window Maximum
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 01</summary>
+
+```bash
+CLASS NOTES: 48
+	1. What is Maps?
+	2. C++ STL Maps Type
+	3. Implement C++ STL Unordered Map
+	4. Hash Function
+		- Hash Code
+		- Compression Function
+		- Collision
+		- Handle Collision Techniques
+			a. Open Hashing
+			b. Closed addressing
+				I. Linear Probing
+				II. Quadratic Probing
+		- How and Why the Time Complexity of Insertion, Deletion, and Searching is O(1)
+		- Load Factor
+	5. Basic problems on maps
+		PROBLEM 1: Store all character frequency of a string
+		PROBLEM 2: Reorganize String (Leetcode-767)
+		PROBLEM 3: Linked List Cycle (Leetcode-141)
+```
+
+</details>
+
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 02</summary>
+
+```bash
+CLASS NOTES: 49
+	1. What is Trie?
+	2. How to organize the data in trie?
+	3. Create Trie Node
+	4. Insertion Method of Trie
+	5. Searching Method of Trie
+	6. Deletion Method of Trie
+
+HOMEWORK NOTES: 49
+	1. Print All Words of Given Prefix String
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 16 TOPIC: Hashmaps & Tries - Class 03</summary>
+
+```bash
+CLASS NOTES: 50
+	1. Print All Words of Given Prefix String - I
+	2. Print All Words of Given Prefix String - II
+	3. Longest Common Prefix (Leetcode-14)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 01</summary>
+
+```bash
+CLASS NOTES: 51
+	1. What is Dynamic Programming?
+	2. Where to Use Dynamic Programming?
+	3. Three Approach for DP
+		I. Top Down Approach (Memoization)
+		II. Bottom-up Approach (Tabulation)
+		III. Patterns Approach (Space Optimization)
+	4. Fibonacci (Leetcode-509)
+	5. Cut Segment (GFG)
+	6. What is 1DP and 2DP?
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 02</summary>
+
+```bash
+CLASS NOTES: 52
+	1. House Robber (Leetcode-198)
+	2. Coin Change (Leetcode-322)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 17 TOPIC: Dynamic Programming - Class 03</summary>
+
+```bash
+CLASS NOTES: 53
+	1. Painting Fence Algorithm (GFG)
+	2. 0/1 Knapsack Problem (GFG)
+
+```
+
+</details>
+s
+<details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Assignments</summary>
+
+```bash
+CLASS ASSIGNMENTS:
+	1. Perfect Squares Leetcode
+	2. Minimum Cost for Tickets Leetcode
+	3. Minimum ASCII Delete Sum for 2 Strings Leetcode
+	4. Longest Palindromic SubString Leetcode
+	5. Distinct Subsequences Leetcode
+	6. Word Break Leetcode
+	7. Word Break-2 Leetcode
+	8. Unique BST-2 Leetcode
+	9. House Robber-3 Leetcode
+	10. Unique BST-2 Leetcode
+	11. Stone Game
+	12. Stone Game-2
+	13. Stone Game-3
+	14. Burst balloons Leetcode
+	15. Interleaving Strings Leetcode
+	16. Minimum Insertion Steps to Make a String Palindrome
+	17. Russian Doll Envelopes Leetcode
+	18. Minimum Number of Removals to Make Mountain Array
+	19. Make Array Strictly Increasing
+	20. Best Time To Buy & Sell Stock - Already Taught in Recursion Week
+	21. Best Time To Buy & Sell Stock-2
+	22. Best Time To Buy & Sell Stock-3
+	23. Best Time To Buy & Sell Stock-4
+	24. Best Time To Buy & Sell Stock-5
+	25. Target Sum Leetcode
+	26. Ones and Zeroes Leetcode
+	27. Minimum Swaps To Make Sequences Increasing
+	28. Reducing Dishes Leetcode
+	29. Predict the Winner Leetcode
+
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 20 TOPIC: Graphs - Assignments</summary>
+
+```bash
+CLASS ASSIGNMENTS:
+	1. Prim’s Algorithm for MST
+	2. Kruskals Algorithm for MST
+	3. Eventual Safe States
+	4. Word Ladder-2
+	5. Minimum Multiplications to reach End
+	6. Number of Operations to Make Network Connected
+	7. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+	8. Accounts Merge
+
+```
+
+</details>
