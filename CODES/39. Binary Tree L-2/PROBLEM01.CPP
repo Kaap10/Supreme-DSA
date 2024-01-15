@@ -28,7 +28,6 @@ public:
     bool isBalanced(TreeNode* root) {
         // Base case
         if(root == NULL){
-            // Hum leaf node ko balanced tree assume kar rhe hai
             return true;
         }
 
@@ -39,11 +38,9 @@ public:
 
         bool currentNode = (diff <= 1);
 
-        // Ab recursion baki ka solve khud kar lega
         bool leftSub = isBalanced(root->left);
         bool rightSub = isBalanced(root->right);
 
-        // Check ki tree balanced hai ya nhi
         if(currentNode && leftSub && rightSub){
             return true;
         }
