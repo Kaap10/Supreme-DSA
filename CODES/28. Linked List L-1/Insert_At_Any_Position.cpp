@@ -148,7 +148,7 @@ int main()
     insertAtTail(head,tail,40);
     insertAtTail(head,tail,50);
     printLL(head);
-    insertAtAnyPosition(head, tail, 500, 51);
+    insertAtAnyPosition(head, tail, 51,3);
     printLL(head);
     return 0;
 }
