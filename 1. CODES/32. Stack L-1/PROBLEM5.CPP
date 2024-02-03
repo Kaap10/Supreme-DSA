@@ -1,4 +1,4 @@
-// 📂 PROBLEM 5: Insert in a sorted stack
+    // 📂 PROBLEM 5: Insert in a sorted stack
 
 // Approach 1: Recursion and backtracking
 // Time Complexity: O(n)
