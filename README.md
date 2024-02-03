@@ -1396,6 +1396,30 @@ CLASS NOTES: 55
 </details>
 
 <details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Class 06</summary>
+
+```bash
+CLASS NOTES: 56
+	1. Guess Number Higher or Lower II (Leetcode-375)
+	2. Minimum Cost Tree From Leaf Values (Leetcode-1130)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 18 TOPIC: Dynamic Programming - Class 07</summary>
+
+```bash
+CLASS NOTES: 57
+	1. Partition Equal Subset Sum (Leetcode-416)
+	2. Number of Dice Rolls With Target Sum (Leetcode-1155)
+
+```
+
+</details>
+
+<details>
   <summary>WEEK 18 TOPIC: Dynamic Programming - Assignments</summary>
 
 ```bash
@@ -1430,6 +1454,56 @@ CLASS ASSIGNMENTS:
 	28. Reducing Dishes Leetcode
 	29. Predict the Winner Leetcode
 
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 01</summary>
+
+```bash
+CLASS NOTES: 58
+	1. What is a Graph?
+	2. Terminologies of a graph
+		- Directed and undirected graph
+		- Edge list
+		- Unweighted edge and weighted edge
+		- Unweighted graph and weighted graph
+		- Cyclic graph and acyclic graph
+		- Degree
+		- Indegree and outdegree
+		- Path: valid and invalid path
+		- Components (disconnected and connected graph)
+	3. Interview Based Question
+		- Practical use of graph
+		- Is each graph a tree?
+		- Is each tree a graph?
+		- Clone a graph
+	4. Graph Creation
+		- Using Adjacency Matrix
+		- Using Adjacency List
+		- Generalize the code of the graph creation
+		- HW: Time and space complexity of graph creation?
+	5. Traverse the graph
+		- BFS Algorithm
+		- HW: Time and space complexity of BFS?
+		- DFS Algorithm
+		- HW: Time and space complexity of DFS?
+		- HW: Find the number of components of a graph.
+```
+
+</details>
+
+<details>
+  <summary>WEEK 19 TOPIC: Graphs - Class 02</summary>
+
+```bash
+CLASS NOTES: 59
+	1. Detect cycle in an undirected graph using BFS (GFG)
+	2. Detect cycle in an undirected graph using DFS (GFG)
+	3. Detect cycle in an directed graph using DFS (GFG)
+	4. Detect cycle in an directed graph using BFS (Pending Problem)
 
 ```
 
