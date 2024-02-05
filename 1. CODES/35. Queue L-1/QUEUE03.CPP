@@ -103,7 +103,7 @@ class CDQueue
             }        
             // ⭐Circular queue
              else if(rear == 0){
-                arr[rear] = -1;
+                arr[rear] = -1; 
                 rear = size - 1;
             }
             // Normal

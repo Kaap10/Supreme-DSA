@@ -24,7 +24,7 @@ public:
                 count++;
             }
             startingRow++;
-
+    
             // Print endingCol
             for(int i=startingRow;i<=endingRow && count<totalElements;i++){
                 ans.push_back(matrix[i][endingCol]);
