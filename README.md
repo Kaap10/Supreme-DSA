@@ -1598,3 +1598,58 @@ CLASS ASSIGNMENTS:
 ```
 
 </details>
+
+<details>
+  <summary>WEEK 21 TOPIC: Bit Manipulation</summary>
+
+```bash
+CLASS NOTES: 65
+	1. Bitwise operators
+	2. Check even or odd number
+	3. Get Ith bit from right side
+	4. Set Ith bit from right side
+	5. Clear Ith bit from right side
+	6. Update Ith bit from right side
+	7. Single number (Leetcode-136)
+	8. Clear n bits from last
+	9. Check power of two
+	10. Count set bits
+	11. Clear bits in range
+	12. Subsequence of a string "Include & Exclude" (Leetcode-78)
+	13. Pow(x, n) (Leetcode-50)
+			- Naive Approach
+			- Fast Exponentiation
+			- Binary Exponentiation
+	14. Single number II (Leetcode-137)
+	15. Single number III (Leetcode-260)
+	16. Binary to decimal
+	17. Decimal to binary
+	18. Count total jump from source to destination
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 21 TOPIC: Sliding Window Technique</summary>
+
+```bash
+CLASS NOTES: 66
+	1. Sliding window varients
+	2. Fixed size window
+		- Sliding Window Maximum (Leetcode-239)
+		- Max Sum Subarray of size K (GFG)
+	3. Variable size window
+		- Minimum Size Subarray Sum (Leetcode-209)
+		- Binary Subarrays With Sum (Leetcode-930)
+	4. Two pointer approach
+		- Two Sum (Leetcode-1)
+	5. Optimization approach
+		- Minimum Window Substring (Leetcode-76)
+	6. Master sliding window through this resource
+	Resource 1: https://leetcode.com/discuss/general-discussion/1122776/summary-of-sliding-window-patterns-for-subarray-substring
+	Resource 2: https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide
+
+```
+
+</details>
